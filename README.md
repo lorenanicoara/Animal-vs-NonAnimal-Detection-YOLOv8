@@ -2,7 +2,7 @@
 
 A desktop computer vision tool powered by a custom-trained YOLOv8 model that detects, classifies and counts **animals** versus **non-animal objects** in any image, with a simple point-and-click interface that requires no coding.
 
-![Application screenshot](docs/screenshot.png)
+![Application screenshot](docs/ss%20animals%20projects.png)
 
 ## Technologies Used
 
